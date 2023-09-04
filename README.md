@@ -17,7 +17,7 @@ buys it, and you never see that website again? *all that work...*
 `Only a few steps to follow. For more info, read "Information"`
 ***
 ### Information
-```
+
 MegaMan strives to be the very best Middle-Man AI.
 The bot dedicated for the crypto community to
 safely process trades such as code-sources, domains, 
@@ -26,9 +26,9 @@ cryptocurrencies. All transactions are done anonymously
 through our bot. In no circumstances will our bot ask
 you for your Private Key. It it all trustworthy mechanism
 and it is simple, smooth, and easy.
-```
 
-                           PREVIEW OF OUR VISION
+
+    PREVIEW OF OUR VISION
 
 >Scenario: Buying a domain which is iamtrading.com
 >
@@ -46,7 +46,7 @@ and it is simple, smooth, and easy.
 >
 >@Seller -> Receives Funds.
                            
-                              MORE INFORMATION
+    MORE INFORMATION
 
 > <ins>MegaMan Token</ins>:\
 > <ins>MegaMan Trading Wallet</ins>: 
@@ -91,7 +91,3 @@ and it is simple, smooth, and easy.
 | /start                      | /start                               | Start an Exchange                         |
 | /admin                      | /admin                               | Ask an Admin for Help                     |
 | /report {username} {reason} | /report devguapo He is the developer | Report a User for an Admin to take Action |
-
-## Terms of Service
-`ZEEK!!!! Mention that we charge $3 towards buyer to cover gas fees.
-This will only be happening until token has rocketted. Thanks.`
