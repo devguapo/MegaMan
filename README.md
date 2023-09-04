@@ -28,7 +28,8 @@ you for your Private Key. It it all trustworthy mechanism
 and it is simple, smooth, and easy.
 
 
-    PREVIEW OF OUR VISION
+
+#### ***PREVIEW OF OUR VISION***
 
 >Scenario: Buying a domain which is iamtrading.com
 >
@@ -46,7 +47,7 @@ and it is simple, smooth, and easy.
 >
 >@Seller -> Receives Funds.
                            
-    MORE INFORMATION
+#### ***MORE INFORMATION***
 
 > <ins>MegaMan Token</ins>:\
 > <ins>MegaMan Trading Wallet</ins>: 
